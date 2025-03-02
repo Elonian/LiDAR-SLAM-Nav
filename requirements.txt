@@ -1,0 +1,6 @@
+matplotlib==3.9.*
+transforms3d==0.4.*
+autograd==1.7.*
+dash
+open3d
+gtsam
